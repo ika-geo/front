@@ -1,0 +1,13 @@
+.container {
+    border: 2px solid black;
+    width: 70%;
+    margin: auto;
+    margin-top: 2rem;
+    margin-left: 250px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    border-radius: 12px;
+    margin-bottom: 20px;
+  }
